@@ -37,10 +37,10 @@ The performance of the MAR-CDPM was compared with supervised and generative mode
 
 
 ### Query
-All implementations are done by Reza Azad. For any query please contact us for more information.
+All implementations are done by Mojtaba Safari. For any query please contact us for more information.
 
 ```python
------@gmail.com
+-----@ulaval.ca
 
 ```
 
