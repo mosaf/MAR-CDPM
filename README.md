@@ -5,7 +5,7 @@ This study introduces a novel motion reduction of three-dimensional contrast enh
 
 If this code helps with your research please consider citing the following paper:
 </br>
-> [M. Safari](https://scholar.google.com/citations?user=-G5yTDgAAAAJ&hl=en), [A. Fatemi] (https://scholar.google.com/citations?hl=en&user=yYz5MZkAAAAJ) and [L. Archambault](https://scholar.google.com/citations?hl=en&user=PKYbYNIAAAAJ), "MAR-CDPM: Motion Artifact Reduction using Conditional Diffusion Probabilistic Model of Mutlicenter MRI Data with Different Brain Tumor and Metastases", download [link](https://arxiv.org).
+> [M. Safari](https://scholar.google.com/citations?user=-G5yTDgAAAAJ&hl=en), [A. Fatemi](https://scholar.google.com/citations?hl=en&user=yYz5MZkAAAAJ), and [L. Archambault](https://scholar.google.com/citations?hl=en&user=PKYbYNIAAAAJ), "MAR-CDPM: Motion Artifact Reduction using Conditional Diffusion Probabilistic Model of Mutlicenter MRI Data with Different Brain Tumor and Metastases", download [link](https://arxiv.org).
 
 ```python
 soon
